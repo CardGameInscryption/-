@@ -1,0 +1,7 @@
+C:\Users\misap\OneDrive\Рабочий стол\обучение не для игры\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\misap\OneDrive\Рабочий стол\обучение не для игры\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\misap\OneDrive\Рабочий стол\обучение не для игры\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\misap\OneDrive\Рабочий стол\обучение не для игры\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\misap\OneDrive\Рабочий стол\обучение не для игры\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\misap\OneDrive\Рабочий стол\обучение не для игры\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\misap\OneDrive\Рабочий стол\обучение не для игры\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
